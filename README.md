@@ -2,11 +2,13 @@
 
 _This repo will have all the information about my past, current and upcoming events/conferences where I speak, including talk topic, slides and schedule._
 
-## 2019 conferences
+## 2020 conferences
 
 ### Vue Amsterdam - Amsterdam, The Netherlands
 
 ### CodeMotion Rome - Rome, Italy
+
+### ImageCon - San Francisco, US
 
 TBC
 
