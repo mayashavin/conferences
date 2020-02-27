@@ -6,6 +6,16 @@ _This repo will have all the information about my past, current and upcoming eve
 
 ### Vue Amsterdam - Amsterdam, The Netherlands
 
+### CodeMotion Rome - Rome, Italy
+
+TBC
+
+---
+
+## 2019 conferences
+
+### Vue Amsterdam - Amsterdam, The Netherlands
+
 ### Vueday Verona - Verona, Italy
 
 ### CityJS - London, United Kingdom
